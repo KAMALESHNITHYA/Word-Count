@@ -20,8 +20,8 @@ End the program
 ## PROGRAM:
 ```
 program to find the number of words in a text file
-Developed by : PRASHANTH K
-Register number : 212223230152
+Developed by : KAMALESH R
+Register number : 212223230094
 
 num=0
 with open("story.txt","r") as f1:
